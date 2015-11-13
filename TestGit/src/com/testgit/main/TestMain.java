@@ -12,6 +12,8 @@ public class TestMain {
 		System.out.println("Hello,Wolrd!");
 		// 添加新的内容
 		System.out.println("add new content!");
+		// 再次添加新内容
+		System.out.println("again add new content!");
 	}
 	
 }
